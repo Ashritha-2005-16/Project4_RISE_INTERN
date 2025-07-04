@@ -1,4 +1,4 @@
-# Animated To-Do List
+# To-Do List
 
 A modern, animated To-Do List web page with smooth transitions and a stylish, user-friendly interface.
 
